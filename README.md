@@ -4,3 +4,5 @@ Implementing RL algorithms from scratch. Algorithms implemented are:
     - With total rewards
     - with rewards-to-go
     - with advantages
+- Proximal Policy Optimization
+    - With clip function

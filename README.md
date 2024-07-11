@@ -6,3 +6,5 @@ Implementing RL algorithms from scratch. Algorithms implemented are:
     - with advantages
 - Proximal Policy Optimization
     - With clip function
+- Deep Q Network
+    - With soft update of Target
